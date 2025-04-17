@@ -1,0 +1,105 @@
+\newcommand{\etalchar}[1]{$^{#1}$}
+\begin{thebibliography}{CGKK16}
+
+\bibitem[AC08]{jan3}
+Klaus Altmann and Jan~Arthur Christophersen.
+\newblock Cotangent cohomology of stanley-reisner rings, 2008.
+
+\bibitem[AC09]{jan2}
+Klaus Altmann and Jan~Arthur Christophersen.
+\newblock Deforming stanley-reisner schemes, 2009.
+
+\bibitem[ADS15]{pfgr}
+Nicolas Addington, Will Donovan, and Ed~Segal.
+\newblock The pfaffian-grassmannian equivalence revisited.
+\newblock {\em Algebraic Geometry}, page 332–364, July 2015.
+
+\bibitem[CCG{\etalchar{+}}12]{mifa}
+Tom Coates, Alessio Corti, Sergey Galkin, Vasily Golyshev, and Alexander
+  Kasprzyk.
+\newblock {\em Mirror Symmetry and Fano Manifolds}, page 285–300.
+\newblock European Mathematical Society Publishing House, 2012.
+
+\bibitem[CCGK16]{qperiods}
+Tom Coates, Alessio Corti, Sergey Galkin, and Alexander Kasprzyk.
+\newblock Quantum periods for 3–dimensional fano manifolds.
+\newblock {\em Geometry \& Topology}, 20(1):103–256, February 2016.
+
+\bibitem[CGKK16]{luk2}
+Stephen Coughlan, Lukasz Golebiowski, Grzegorz Kapustka, and Michal Kapustka.
+\newblock Arithmetically gorenstein calabi-yau threefolds in $\mathbb{P}^7$,
+  2016.
+
+\bibitem[Chr11]{jan1}
+Jan~Arthur Christophersen.
+\newblock Deformations of equivelar stanley-reisner abelian surfaces, 2011.
+
+\bibitem[CI14]{jan4}
+Jan~Arthur Christophersen and Nathan Ilten.
+\newblock Hilbert schemes and toric degenerations for low degree fano
+  threefolds.
+\newblock {\em Journal für die reine und angewandte Mathematik (Crelles
+  Journal)}, 2016(717):77–100, March 2014.
+
+\bibitem[Gal08]{galkin1}
+Sergey Galkin.
+\newblock Small toric degenerations of fano threefolds, 2008.
+
+\bibitem[Go{\l}]{luk1}
+{\L}ukasz Go{\l}ebio{w}ski.
+\newblock Some observations on simplicial polytopes via gorenstein calabi-yau
+  threefolds.
+
+\bibitem[GS67]{grun}
+Branko Grünbaum and V.P. Sreedharan.
+\newblock An enumeration of simplicial 4-polytopes with 8 vertices.
+\newblock {\em Journal of Combinatorial Theory}, 2(4):437--465, 1967.
+
+\bibitem[HT07]{hot}
+Kentaro Hori and David Tong.
+\newblock Aspects of non-abelian gauge dynamics in two-dimensional script n =
+  (2,2) theories.
+\newblock {\em Journal of High Energy Physics}, 2007(05):079–079, May 2007.
+
+\bibitem[ILP13]{ilp13}
+Nathan~Owen Ilten, Jacob Lewis, and Victor Przyjalkowski.
+\newblock Toric degenerations of fano threefolds giving weak landau–ginzburg
+  models.
+\newblock {\em Journal of Algebra}, 374:104–121, January 2013.
+
+\bibitem[Kan13]{pfaffian}
+Atsushi Kanazawa.
+\newblock Pfaffian calabi-yau threefolds and mirror symmetry, 2013.
+
+\bibitem[KK15]{kk1}
+Grzegorz Kapustka and Michał Kapustka.
+\newblock Calabi–yau threefolds in ${\mathbb{p}}^6$.
+\newblock {\em Annali di Matematica Pura ed Applicata (1923 -)},
+  195(2):529–556, January 2015.
+
+\bibitem[Lee24]{lec}
+J.M. Lee.
+\newblock {\em Introduction to Complex Manifolds}.
+\newblock Graduate Studies in Mathematics. American Mathematical Society, 2024.
+
+\bibitem[Prz12]{prz09}
+Victor Przyjalkowski.
+\newblock Weak landau-ginzburg models for smooth fano threefolds, 2012.
+
+\bibitem[Ser06]{def0}
+Edoardo Sernesi.
+\newblock Deformations of algebraic schemes.
+\newblock 2006.
+
+\bibitem[Stu00]{sturm}
+Bernd Sturmfels.
+\newblock Solving systems of polynomial equations, 2000.
+
+\bibitem[Tu17]{tud}
+L.W. Tu.
+\newblock {\em Differential Geometry: Connections, Curvature, and
+  Characteristic Classes}.
+\newblock Graduate Texts in Mathematics. Springer International Publishing,
+  2017.
+
+\end{thebibliography}

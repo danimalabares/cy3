@@ -1,0 +1,23 @@
+# Fdb version 4
+["pdflatex"] 1742385635 "journal.tex" "journal.pdf" "journal" 1742385635 2
+  "/Users/daniel/github/config/luapre.sty" 1735586343 9296 15850752363bbe1b37249e9bb6ba1bbf ""
+  "/usr/local/texlive/2023/texmf-dist/tex/generic/iftex/iftex.sty" 1644112042 7237 bdd120a32c8fdb4b433cf9ca2e7cd98a ""
+  "/usr/local/texlive/2023/texmf-dist/tex/generic/iftex/ifvtex.sty" 1572645307 1057 525c2192b5febbd8c1f662c9468335bb ""
+  "/usr/local/texlive/2023/texmf-dist/tex/latex/base/article.cls" 1667332637 20144 d5ecf0a5140c8d8d8b72cbe86e320eff ""
+  "/usr/local/texlive/2023/texmf-dist/tex/latex/base/size10.clo" 1667332637 8448 c33a4e1cb35cee9b33c2b21033b73e39 ""
+  "/usr/local/texlive/2023/texmf-dist/tex/latex/fontspec/fontspec.sty" 1642282977 1656 7e824878bad4df5a3e8bba4e463d9126 ""
+  "/usr/local/texlive/2023/texmf-dist/tex/latex/geometry/geometry.sty" 1578002852 41601 9cf6c5257b1bc7af01a58859749dd37a ""
+  "/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/keyval.sty" 1654720880 2671 7e67d78d9b88c845599a85b2d41f2e39 ""
+  "/usr/local/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def" 1673989714 30429 213676d4c7327a21d91ddaed900e7b81 ""
+  "/usr/local/texlive/2023/texmf-dist/tex/latex/l3kernel/expl3.sty" 1677186603 6107 5cfea8a675c58918b8c04be10261e48c ""
+  "/usr/local/texlive/2023/texmf-dist/tex/latex/l3packages/xparse/xparse.sty" 1675461949 6812 3c152a1c8d562d7b7291c4839b61a5c3 ""
+  "/usr/local/texlive/2023/texmf-dist/web2c/texmf.cnf" 1677365944 40745 87bb86a62d462f93a1efc6b0c65c872e ""
+  "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1685667073 7883462 49cb0241251fa90111bd48780aadf4f1 ""
+  "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
+  "journal.aux" 1742385451 8446 0aabb922ccf25e9c61c60c30d9705b36 "pdflatex"
+  "journal.tex" 1742385630 94932 03b567673588e2fbec2596ff1b969857 ""
+  (generated)
+  "journal.aux"
+  "journal.log"
+  "journal.pdf"
+  (rewritten before read)
